@@ -376,4 +376,4 @@ Ne jamais publier :
 
 ## Auteur
 
-Projet réalisé pour un portfolio professionnel orienté Data Analyst, BI et Data Engineering.
+Projet réalisé par Lathan pour un portfolio professionnel orienté Data Analyst, BI et Data Engineering.
