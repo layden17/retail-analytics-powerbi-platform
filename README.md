@@ -1,4 +1,5 @@
 # Retail Analytics Power BI Platform
+[![CI](https://github.com/layden17/retail-analytics-powerbi-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/layden17/retail-analytics-powerbi-platform/actions/workflows/ci.yml)
 
 Projet de data analytics de bout en bout basé sur le jeu de données e-commerce Olist.
 
